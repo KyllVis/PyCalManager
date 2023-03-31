@@ -18,6 +18,9 @@ Appointment Type:
 # Requirements to run
 
 GoogleAPI permissions for Gmail and Calendar. For support on enabling API's see "https://support.google.com/googleapi/answer/6158841?hl=en" or ask ChatGPT.
+
 To run the packages outlined at the top of the .py script need to be installed.
+
 At the beginning, certain details such as your appointments email address and time zones are required.
+
 Once the script is run for the first time, it will ask you to log in to your Google account. This data is not sent anywhere and is just used to ensure you have Google API permissions.
