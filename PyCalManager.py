@@ -13,7 +13,7 @@ from datetime import datetime, time, timedelta
 #PROVIDE details about the account that will run the program from
 #Email , #timezone (For specific timezone format see https://stackoverflow.com/questions/22526635/list-of-acceptable-google-calendar-api-time-zones
 #Timezone shortened format, standard
-my_email = "kyll.hutchens@gmail.com"
+my_email = ""
 timezone = 'Australia/Sydney'
 timezonesymb = 'AEDT'
 
